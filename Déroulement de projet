@@ -1,0 +1,19 @@
+Déroulement du projet :
+1.	Réalisation de la partie émettrice.
+Alimentation de la carte Arduino par une pile 9 v, connexion Arduino avec l’accéléromètre.
+Réglage accéléromètre, fixation sur le gant afin de reconnaître et détecter les mouvements de la main. Relevé des coordonnées
+2.	Elaboration du code partie émettrice 
+Création de l’algorithme. Codage
+3.	Réalisation de la partie réceptrice
+Connexion Arduino récepteur et pilote de moteurs 
+Réalisation de la maquette du socle avec installation des moteurs et des roues
+4.	Elaboration du code partie réceptrice
+Création de l’algorithme. Codage
+5.	Mise en place de la liaison Bluetooth
+Branchement Bluetooth émetteur
+Branchement Bluetooth récepteur
+Code
+6.	Réalisation maquette en carton et test de l’ensemble du montage.
+Fabrication patron, découpage des pièces et assemblage
+7.	Fabrication du robot 
+8.	Fabrication du robot
