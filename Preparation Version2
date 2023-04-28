@@ -1,0 +1,13 @@
+le 28/04/2023
+Après avoir tester le R2D2 les bugs à corriger:
+Le Bluetooth se deconnecte assez souvent;
+Quand le Bluetooth est deconnecte il continue d'avancer (reculer/tourner) selon la derniere action qu'il devait accomplir, donc il devient incontrollable,
+meme le bouton devient inutile car il est sur la partie emmetrice
+Un des servo moteurs ne recule pas a la mm vitesse que l'autre, ce qui faittourner le robot.
+probleme de stabilite
+
+
+Les fonctionnalites qu'on souhaite implemente dans notre projet apres avoir corriger les bugs:
+mettre du son
+changer la couleur de la led
+faire varier la vitesse en fonction de l'inclinaison
